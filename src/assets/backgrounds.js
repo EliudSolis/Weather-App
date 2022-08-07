@@ -2,7 +2,7 @@
 
 const backgrounds = {
 Thunderstorm:{
-      day: "https://www.rescueairtx.com/images/blog/png-base64dd1fe11ef962dc81.png",
+      day: "https://media1.giphy.com/media/tuZkG32IItHoI/giphy.gif?cid=ecf05e47219ctycu9qjh1zmfoy0d1d5rxz7g4hqkwmsopd67&rid=giphy.gif&ct=g",
       night: "https://cloudfront-us-east-1.images.arcpublishing.com/gray/LARRIZM7UFJOZBL27NYSWT73JI.jpg"
     }, 
   
